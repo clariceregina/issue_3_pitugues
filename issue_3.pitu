@@ -1,0 +1,8 @@
+texto = leia('Insira um texto: ')
+
+texto_vetorizado = []
+
+para cada letra em texto:
+    texto_vetorizado.adicionar(letra)
+
+imprima('Texto vetorizado = ${texto_vetorizado}')
